@@ -29,7 +29,10 @@ Cliente sin instalacion
 
 <img width="1096" height="288" alt="image" src="https://github.com/user-attachments/assets/b7c7694f-a0bf-4dc0-83d1-d606619a12e4" />
 
+ 
+ 
  "3. Estrategia de Despliegue y Comunicación".
+
 Para mover la aplicacion del servidor de produccion se descarta el uso de FTP normal debido a que transmite las credenciales y los datos en texto plano, y queda expuesto a ataques de interceptacion de tráfico 
 En vez de usar ese, usariamos el SFTP y se ejecutaria sobre el puerto 22. Este sistema garantiza que tanto la autenticacion como la transferencia de archivos viajen completamente cifradas mediante algoritmos como AES, el flujo se automatizara desde el repositorio local hacia el servidor cloud usando claves criptograficas SSH en lugar de contraseñas manuales, lo que asi agiliza el despliegue y evita errores de personas y asegura tambien la integridad del codigo 
 Mensajeria: 
