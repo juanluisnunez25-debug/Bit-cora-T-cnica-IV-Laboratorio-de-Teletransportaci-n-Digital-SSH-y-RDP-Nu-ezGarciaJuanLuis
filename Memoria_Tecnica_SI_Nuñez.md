@@ -39,3 +39,6 @@ En vez de usar ese, usariamos el SFTP y se ejecutaria sobre el puerto 22. Este s
 Mensajeria: 
 Para poder hablar entre nosotros podemos usar Discord. Creamos unos canales especificos para organizar las tareas y asi avisar si hay algun problema tecnico 
 Para no tener que estar mirando el servidor todo el dia configuraremos Webhooks. Esto sirve para que si el servidor se cae o se queda sin memoria, envie un mensaje directamente a nuestro canal de Discord, asi nos podemos enterar al momento y arreglarlo rapidamente 
+
+
+"4. Justificación Científica".
