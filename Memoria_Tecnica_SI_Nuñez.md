@@ -24,3 +24,8 @@ Deben centrarse en:
 Centralizacion del Acceso   
 Aislamiento   
 Cliente sin instalacion
+
+"2. Estimación de Costes de Infraestructura".
+
+<img width="1096" height="288" alt="image" src="https://github.com/user-attachments/assets/b7c7694f-a0bf-4dc0-83d1-d606619a12e4" />
+
